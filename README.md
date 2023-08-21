@@ -4,14 +4,14 @@
 </div>
 -->
 
-<div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! This is AntoniXGaudi alias Wolf 👋 </h1> </div>
 
-<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from POLAND 💬</h3>
+<h3 align="center">💬 A self-motivated data enthusiast from Germany 💬</h3>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/emirhan-bozdogan/">
+<a href="https://www.linkedin.com/in/wolfgang-miller-b9521a/>
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:emrhn1031@gmail.com">  
