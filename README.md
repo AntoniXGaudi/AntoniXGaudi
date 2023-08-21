@@ -70,44 +70,44 @@
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir1031&theme=algolia&layout=compact" alt="languages" width="50%" >
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniXGaudi1&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir1031&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir1031&theme=algolia" alt="my commit status" width="48.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniXGaudi&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoniXGaudi&theme=algolia" alt="my commit status" width="48.2%"/>
 </p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOKS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/01_DATA_SCIENCE_NOTEBOOKS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/02_ASSIGNMENTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=02_ASSIGNMENTS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/03_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/03_PROJECTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=03_PROJECTS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/04_PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/04_PYTHON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=04_PYTHON&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/05_SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/05_SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=05_SQL&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/06_GSS_SPREADSHEET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=06_GSS_SPREADSHEET&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/07_TABLEAU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/07_TABLEAU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=07_TABLEAU&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/08_HTML_CSS_JAVASCRIPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/09_STATISTICS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=09_STATISTICS&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/09_STATISTICS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=09_STATISTICS&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/10_CERTIFICATES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=10_CERTIFICATES&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/10_CERTIFICATES">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=10_CERTIFICATES&theme=algolia" />
 </a>
 </p>
