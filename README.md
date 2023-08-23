@@ -68,26 +68,26 @@
 </p><div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonixgaudi&theme=algolia&layout=compact" alt="languages" width="50%" >
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniXGaudi&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonixgaudi&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonixgaudi&theme=algolia" alt="my commit status" width="48.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniXGaudi&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoniXGaudi&theme=algolia" alt="my commit status" width="48.2%"/>
 </p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/antonixgaudi/Data-Analysis-Module">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Data-Analysis-Module&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/Data-Analysis-Module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=Data-Analysis-Module&theme=algolia" />
 </a>
-<a href="https://github.com/antonixgaudi/Machine-Learning-Module">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Machine-Learning-Module&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/Machine-Learning-Module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=Machine-Learning-Module&theme=algolia" />
 </a>
-<a href="https://github.com/antonixgaudi/Data-Analysis-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Data-Analysis-Portfolio&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/Data-Analysis-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=Data-Analysis-Portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/antonixgaudi/Machine-Learning-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Machine-Learning-Portfolio&theme=algolia" />
+<a href="https://github.com/AntoniXGaudi/Machine-Learning-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoniXGaudi&repo=Machine-Learning-Portfolio&theme=algolia" />
 </a>
 </p>
