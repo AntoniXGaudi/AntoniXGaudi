@@ -68,26 +68,26 @@
 </p><div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir1031&theme=algolia&layout=compact" alt="languages" width="50%" >
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonixgaudi&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir1031&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir1031&theme=algolia" alt="my commit status" width="48.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonixgaudi&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonixgaudi&theme=algolia" alt="my commit status" width="48.2%"/>
 </p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOKS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
+<a href="https://github.com/antonixgaudi/Data-Analysis-Module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Data-Analysis-Module&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
+<a href="https://github.com/antonixgaudi/Machine-Learning-Module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Machine-Learning-Module&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/03_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
+<a href="https://github.com/antonixgaudi/Data-Analysis-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Data-Analysis-Portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/04_PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
+<a href="https://github.com/antonixgaudi/Machine-Learning-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonixgaudi&repo=Machine-Learning-Portfolio&theme=algolia" />
 </a>
 </p>
