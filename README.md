@@ -70,10 +70,6 @@
 </p align="center">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniXGaudi&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniXGaudi&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoniXGaudi&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
