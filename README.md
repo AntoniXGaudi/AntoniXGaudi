@@ -65,7 +65,10 @@
 <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
-</p><div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
+
+</p>
+
+<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniXGaudi&theme=algolia&layout=compact" alt="languages" width="50%" >
